@@ -25,5 +25,3 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 -->
 
 # messageApp
-# messageApp
-# messageApp
